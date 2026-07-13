@@ -1,0 +1,15 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="FgFW1MfRpHRbAZnw0JzE">
+    <mxGraphModel dx="1417" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;div&gt;NAME OF ITEM&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;DESCRIPTION OF ITEM&lt;/span&gt;&lt;/div&gt;" link="https://www.videocraft.com.au/products/blackmagic-design-atem-mini-extreme-iso-live-streaming-camera-switcher" id="s20b6Gskkq0xSbLsb2Lf-1">
+          <mxCell parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=50;perimeterSpacing=0;rounded=1;arcSize=6;align=left;spacingLeft=4;swimlaneFillColor=default;" vertex="1">
+            <mxGeometry height="240" width="270" x="370" y="370" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
