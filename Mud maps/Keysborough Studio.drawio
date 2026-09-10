@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="FgFW1MfRpHRbAZnw0JzE">
-    <mxGraphModel dx="3084" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5320" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1209,7 +1209,7 @@
         </mxCell>
         <mxCell id="QVc0W2t4YnFmTZpfyAvo-1" connectable="0" parent="wQhtiK3Zwk10xCWoas_o-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;DMX 1&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.8523" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="119" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;Nanlite Forza 200&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Key light&lt;/span&gt;" link="https://www.nanlite.com/product-forza-200?t=1786081390833#/en/Forza-200" id="wQhtiK3Zwk10xCWoas_o-41">
