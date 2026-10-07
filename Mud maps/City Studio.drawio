@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="FgFW1MfRpHRbAZnw0JzE">
-    <mxGraphModel dx="687" dy="-374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1649" dy="-429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
         </mxCell>
         <UserObject label="&lt;div&gt;Blackmagic Hyperdeck Pro HD&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Recording hardware&lt;/span&gt;" link="https://www.blackmagicdesign.com/au/products/hyperdeckstudio/techspecs/W-HYD-14" id="8qRVb6nirIDidwY8cKo2-62">
           <mxCell parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=60;perimeterSpacing=0;rounded=1;arcSize=6;align=left;spacingLeft=6;swimlaneFillColor=default;strokeWidth=2;fontSize=14;" vertex="1">
-            <mxGeometry height="590" width="370" x="1250" y="1480" as="geometry">
+            <mxGeometry height="301.26" width="370" x="1260" y="1737.74" as="geometry">
               <mxRectangle height="60" width="200" x="330" y="280" as="alternateBounds" />
             </mxGeometry>
           </mxCell>
@@ -258,92 +258,32 @@
         <mxCell id="8qRVb6nirIDidwY8cKo2-66" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="20" y="122" as="geometry" />
         </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-67" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="162" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-68" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 1&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
+        <mxCell id="8qRVb6nirIDidwY8cKo2-68" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI IN&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
           <mxGeometry height="24.5" width="50" x="50" y="77.75" as="geometry" />
         </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-69" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI OUT 1&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
+        <mxCell id="8qRVb6nirIDidwY8cKo2-69" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI OUT&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
           <mxGeometry height="27.25" width="90" x="230" y="76.38" as="geometry" />
         </mxCell>
         <mxCell id="8qRVb6nirIDidwY8cKo2-70" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HYPERDECK CONTROL&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ETHERNET&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="29" width="140" x="115" y="500" as="geometry" />
+          <mxGeometry height="29" width="140" x="115" y="210" as="geometry" />
         </mxCell>
         <mxCell id="8qRVb6nirIDidwY8cKo2-71" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#007FFF;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="175" y="539" as="geometry" />
+          <mxGeometry height="20" width="20" x="175" y="249" as="geometry" />
         </mxCell>
         <mxCell id="8qRVb6nirIDidwY8cKo2-72" parent="8qRVb6nirIDidwY8cKo2-62" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=none;shape=mxgraph.mscae.enterprise.usb;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="36.8" width="80" x="276.9999999999998" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-73" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 2&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
+        <mxCell id="8qRVb6nirIDidwY8cKo2-73" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;REF IN&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SDI&lt;/span&gt;" vertex="1">
           <mxGeometry height="25.25" width="50" x="50" y="119.37" as="geometry" />
         </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-74" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 3&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="22.5" width="50" x="50" y="160.75" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-75" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI OUT 2&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;&amp;nbsp;- &lt;span style=&quot;font-weight: normal;&quot;&gt;MULTIVIEW&lt;/span&gt;" vertex="1">
+        <mxCell id="8qRVb6nirIDidwY8cKo2-75" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;EXT. DISK&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;USB-C EXTERNAL&lt;/span&gt;" vertex="1">
           <mxGeometry height="26.25" width="120" x="200" y="117.87" as="geometry" />
         </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-76" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 4&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="22.5" width="50" x="50" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-77" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="201.25" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-78" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 5&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="22.5" width="50" x="50" y="238.75" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-79" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-80" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 6&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="22.5" width="50" x="50" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-81" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="281.25" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-82" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 7&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="22.5" width="50" x="50" y="320" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-83" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="321.25" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-84" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HDMI 8&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;HDMI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="22.5" width="50" x="50" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-85" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="361.25" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-86" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#60A917,#007FFF);fontColor=#ffffff;" value="" vertex="1">
+        <mxCell id="8qRVb6nirIDidwY8cKo2-86" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#60A917,#60A917);fontColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="330" y="162.01" as="geometry" />
         </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-87" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;USB A&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;USB-C&lt;/span&gt;" vertex="1">
+        <mxCell id="8qRVb6nirIDidwY8cKo2-87" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;REF OUT&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SDI&lt;/span&gt;" vertex="1">
           <mxGeometry height="26.25" width="80" x="240" y="158.88" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-88" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;USB B&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;USB-C&lt;/span&gt;" vertex="1">
-          <mxGeometry height="26.25" width="80" x="240" y="198.13" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-89" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#60A917,#007FFF);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="330" y="201.26" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-90" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;MIC 1&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3.5MM AUX&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="22.5" width="80" x="50" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-91" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="401.25" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-92" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;MIC 2&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3.5MM AUX&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="22.5" width="70" x="50" y="439" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-93" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#FF3333,#FF3333);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="20" y="440.25" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-94" parent="8qRVb6nirIDidwY8cKo2-62" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;HEADPHONES&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3.5MM AUX&lt;/span&gt;" vertex="1">
-          <mxGeometry height="26.25" width="90" x="230" y="236.88" as="geometry" />
-        </mxCell>
-        <mxCell id="8qRVb6nirIDidwY8cKo2-95" parent="8qRVb6nirIDidwY8cKo2-62" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=light-dark(#60A917,#007FFF);fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="330" y="240.01" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Blackmagic Ultimatte&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Video keyer&lt;/span&gt;&lt;/div&gt;" link="https://usermanual.com/support/blackmagicdesign/ultimatte-12-8k/manual" id="DSgnyi1Uw4UJQ3UALYhP-1">
           <mxCell parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=60;perimeterSpacing=0;rounded=1;arcSize=6;align=left;spacingLeft=6;swimlaneFillColor=default;strokeWidth=2;fontSize=14;" vertex="1">
